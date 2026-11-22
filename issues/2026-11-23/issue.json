@@ -1,0 +1,73 @@
+{
+ "iso": "2026-11-23",
+ "weekday": "월",
+ "no": "No.14",
+ "read": {
+  "h": "리스본의 옛 미술관은 1년 동안 무엇을 고쳤나",
+  "lede": "포르투갈 리스본 국립고대미술관(MNAA)이 1년여 공사를 마치고 11월 21일 다시 문을 열었어요. 경제회복계획(PRR) 예산 850만 유로로 북측 파사드와 지붕, 알베르타스 예배당을 복원하고 소장품 수천 점을 디지털화했습니다.",
+  "bx": [
+   "다시 열린 미술관에 들어서면 새 진열장과 새 동선이 먼저 보여요. 그 길 끝에 보스의 '성 안토니우스의 유혹'이 걸려 있죠. 뒤러와 크라나흐, 라파엘로도 같은 길 위에서 관람객을 기다려요.",
+   "개막 주말엔 문턱을 낮췄어요. 무료로 문을 열었고, 특별 프로그램은 12월 1일까지 이어져요. 유럽 회화관 재편은 2027년 하반기, '성 빈센트 패널' 복원은 2027년 봄이 목표예요. 완성이 아니라 과정을 열어 보인 셈이에요."
+  ],
+  "ba": [
+   "고대미술관의 브랜드는 시간이에요. 이곳이 가진 건 다시 그릴 수 없는 그림들이죠. 그래서 이번 공사는 작품을 바꾸지 않았어요. 지붕과 벽, 진열장처럼 작품을 둘러싼 것들을 고쳤어요.",
+   "가장 조용한 투자는 디지털화예요. 소장품 수천 점을 2D와 3D로 기록했죠. 화면 속 작품은 미술관 밖으로 더 멀리 걸어 나갑니다. 오래된 것을 지키는 일이 그대로 두는 일만은 아니라는 뜻이에요."
+  ],
+  "quote": "새로움은, 다시 보이게 하는 일이다.",
+  "foryou": [
+   "리브랜딩이라고 하면 로고부터 바꾸고 싶어지죠. 하지만 사람들이 사랑한 핵심은 그대로 둘 때가 더 많아요. 리스본의 미술관은 그림 대신 그림이 보이는 조건을 고쳤어요.",
+   "개인이라면 이미 가진 강점이 잘 보이는 무대부터 손보세요. 회사라면 대표 제품을 둘러싼 공간과 기록을 먼저 다듬어 보세요. 당신의 브랜드가 바꾸지 않고 다시 보이게 할 것은 무엇인가요?"
+  ],
+  "card": "→ 오늘의 미학은 THE READ 카드뉴스로 이어집니다 · @mihak.branding"
+ },
+ "picks": [
+  {"cat": "ART", "type": "재개관", "h": "리스본 국립고대미술관, 1년여 공사 끝 재개관", "why": "포르투갈 루사 통신발 기사가 현지 매체와 정부 포털로 동시에 퍼진 오늘 가장 넓게 보도된 소식"},
+  {"cat": "FASHION", "type": "런칭", "h": "피어 오브 갓, 아디다스 결별 후 첫 자체 스니커즈", "why": "협업 브랜드에서 독자 브랜드로, 제리 로렌조의 홀로서기 선언"},
+  {"cat": "ENTERTAINMENT", "type": "앰배서더", "h": "안효섭, GQ 코리아 올해의 남자·생로랑 화보", "why": "생로랑 앰배서더가 한 해의 얼굴로 선 연말 대표 화보"},
+  {"cat": "GASTRONOMY", "type": "가이드", "h": "미쉐린 프랑스 2027 시상식, 첫 리옹 개최 유력", "why": "폴 보퀴즈의 도시로 가는 미식 가이드, 프랑스 지역 매체 7곳 이상 보도"},
+  {"cat": "BEAUTY", "type": "확장", "h": "무신사 뷰티 성수, 5일 만에 3만3천 명 방문", "why": "외국인 65%, 성수를 K뷰티 쇼룸으로 만든 오프라인 확장"}
+ ],
+ "cats": [
+  {"en": "Fashion", "ko": "패션", "items": [
+   {"side": "해외", "type": "런칭", "h": "피어 오브 갓(Fear of God), 아디다스 결별 후 첫 자체 스니커즈 '피어 오브 갓 트레이너' 공개", "s": "제리 로렌조(Jerry Lorenzo)가 2025년 아디다스와 결별한 뒤 처음 내놓은 독자 운동화. 신규 애슬레틱스 라인을 담은 '컬렉션 텐(Collection TEN)'은 2027년 가을 LA 플래그십 첫 입고, 트레이너는 2027년 여름 출시 예정.", "src": "Hypebeast 11.22", "links": [["원문", "https://hypebeast.com/2026/11/jerry-lorenzo-unveils-fear-of-god-trainer-following-adidas-split-first-look"], ["컬렉션 텐", "https://hypebeast.com/2026/11/fear-of-god-collection-ten-debut-in-house-trainer-fall-2027-lookbook-release-info"]]},
+   {"side": "국내", "type": "확장", "h": "포스트 아카이브 팩션(POST ARCHIVE FACTION), 서울 한남동 플래그십 오픈", "s": "스튜디오 언래블(Studio Unravel)과 함께 설계한 2층 규모 매장. FW26 세 번째 드롭(올멧텍스·리몬타·로로피아나 원단)을 함께 출시, 매일 오전 11시~오후 8시 운영.", "src": "Hypebeast 11.22", "links": [["원문", "https://hypebeast.com/2026/11/post-archive-faction-paf-opens-hannam-flagship-store-seoul-alongside-fw26-drop"]]},
+   {"side": "국내", "type": "팝업", "h": "네덜란드 럭셔리 스키웨어 골드버그(Goldbergh), 갤러리아 명품관 첫 단독 팝업", "s": "갤러리아 명품관 웨스트 3층에서 11월 26일까지 운영하는 국내 첫 단독 팝업. 국내 전개사는 레디투스키.", "src": "패션비즈 11.20", "links": [["원문", "https://fashionbiz.co.kr/article/231257"]], "week": true},
+   {"side": "해외", "type": "캠페인", "h": "발렌시아가(Balenciaga), '르 시티(Le City)' 백 25주년 캠페인 두 번째 챕터 공개", "s": "파리·LA·상하이 커뮤니티 인물이 출연하는 25주년 캠페인의 두 번째 편. 디자이너 펑첸왕(Feng Chen Wang) 등 참여.", "src": "한국섬유신문 11.20", "links": [["원문", "https://www.ktnews.com/news/articleView.html?idxno=150366"]], "week": true},
+   {"side": "해외", "type": "인수", "h": "리퍼블릭 브랜즈 그룹(Republic Brands Group), 레베카 밍코프(Rebecca Minkoff) 인수", "s": "인수 금액 비공개, 창업자 레베카 밍코프는 CCO로 잔류. 라이선스 파트너 매출을 2026년 약 1억5,000만 달러에서 2027년 약 3억 달러로 늘리는 목표.", "src": "FashionUnited 11.16 · Daily Front Row 11.20", "links": [["원문", "https://fashionunited.com/news/business/inside-republic-brands-groups-acquisition-of-rebecca-minkoff-im-selective-about-where-my-name-goes/2026111675763"], ["Daily Front Row", "https://fashionweekdaily.com/daily-media-november-20-2026"]], "week": true}
+  ]},
+  {"en": "Beauty", "ko": "뷰티", "items": [
+   {"side": "국내", "type": "확장", "h": "무신사 뷰티(MUSINSA BEAUTY) 성수, 오픈 5일 만에 3만3천 명 방문·거래액 5억 원", "s": "무신사의 100번째 오프라인 매장이자 약국 결합형 뷰티 2호점. 11월 11일 연무장길 개장 후 5일간 약 3만3천 명 방문, 구매 고객 중 외국인 65%·2030 세대 70% 이상.", "src": "국민일보 11.17 · 전자신문 11.10", "links": [["원문", "https://www.kmib.co.kr/article/20261117501431"], ["전자신문", "https://www.etnews.com/20261110000286"]], "week": true},
+   {"side": "국내", "type": "캠페인", "h": "바이레도(BYREDO), 2026 홀리데이 '율뮈스(JULMYS)' 컬렉션 공개", "s": "스웨덴 달라르나 지방 민속화와 겨울 풍경을 재해석한 홀리데이 캠페인. 25칸 어드벤트 캘린더, 향 20종 디스커버리 'La Grande Découverte', 한정 캔들 3종 출시.", "src": "싱글리스트 11.22", "links": [["원문", "https://www.slist.kr/news/articleView.html?idxno=783735"]]},
+   {"side": "해외", "type": "실적", "h": "인터퍼퓸(Interparfums), 2027년 매출 가이던스 15억8,000만 달러 제시", "s": "2026년 추정 14억9,000만 달러 대비 약 6% 성장, 희석 EPS 약 5.00달러 전망. 반클리프 아펠·몽블랑·지미추·코치·랑방 향수 라이선스 보유.", "src": "GlobeNewswire 11.18 · BW Confidential 11.20", "links": [["원문", "https://finviz.com/news/424884/interparfums-inc-announces-full-year-2027-guidance"], ["BW Confidential", "https://www.bwconfidential.com/?p=242728"]], "week": true},
+   {"side": "해외", "type": "실적", "h": "배스앤바디웍스(Bath & Body Works), 3분기 매출 1% 감소에도 연간 전망 상향", "s": "3분기 순매출 약 15억7,000만~15억8,000만 달러로 전년 대비 1% 감소. 국제 부문 39.3% 성장에 힘입어 연간 전망 상향, 5억 달러 자사주 매입 발표.", "src": "Global Cosmetics News 11.20 · BW Confidential 11.20", "links": [["원문", "https://www.globalcosmeticsnews.com/bath-body-works-raises-2026-sales-outlook-despite-third-quarter-decline/"], ["BW Confidential", "https://www.bwconfidential.com/?p=242733"]], "week": true},
+   {"side": "국내", "type": "확장", "h": "디엘스킨(DL Skin), 미국 LA 캘리포니아 마켓센터에 'K뷰티 하우스' 개관", "s": "한국보건산업진흥원 K-뷰티 플래그십 거점 사업으로 현지시간 11월 18일 문을 연 뷰티·패션 융합 공간. 12월 3~9일 '마켓위크'에 아마존·TJ맥스 바이어 초청 예정.", "src": "코스모닝 11.20", "links": [["원문", "https://www.cosmorning.com/news/article.html?no=54001"]], "week": true}
+  ]},
+  {"en": "Entertainment", "ko": "엔터", "items": [
+   {"side": "국내", "type": "앰배서더", "h": "안효섭, GQ 코리아 '2026 맨 오브 더 이어'…생로랑(Saint Laurent) 화보", "s": "GQ 코리아가 올해의 남자로 선정한 생로랑 앰배서더의 화보와 인터뷰. 트렌치코트·수트·레더 재킷 착용, 올해 3월과 6월 파리 생로랑 쇼 참석.", "src": "스타뉴스 11.21", "links": [["원문", "https://www.starnewskorea.com/en/star/2026/11/21/2026112108100480479"]]},
+   {"side": "국내", "type": "캠페인", "h": "로제도르(RoseeDor), 뮤즈 임지연과 2026 홀리데이 캠페인 'Light of Wishes'", "s": "레드 드레스와 핑크 골드 주얼리를 매치한 연말 콘셉트 화보 공개.", "src": "서플 11.20 · 아시아뉴스통신 11.21", "links": [["원문", "https://supple.kr/news/cmwossr0g4p32kwp8xchuvqxf"], ["아시아뉴스통신", "https://www.anewsa.com/detail.php?number=3220343"]]},
+   {"side": "국내", "type": "앰배서더", "h": "최예나, 반다이남코코리아 '펀 스퀘어(FUN SQUARE)' 첫 앰배서더", "s": "건담·다마고치·리틀베어 재키 등 IP 협업 콘셉트 포토 공개. 펀 스퀘어는 스타필드 수원·롯데월드몰 등 5개 직영 매장.", "src": "세계일보 11.20 · MK스포츠 11.20", "links": [["원문", "https://www.segye.com/newsView/20261120508759"], ["MK스포츠", "https://www.mksports.co.kr/news/entertain/12214760"]], "week": true},
+   {"side": "해외", "type": "컬래버", "h": "크록스(Crocs)×'트와일라잇(Twilight)', 에드워드·벨라 클래식 클로그", "s": "영화 속 초원 장면을 모티프로 한 클로그와 'and so the lion fell in love with the lamb' 대사 지비츠 구성. 가격 89.99달러, 12월 4일 출시 예정.", "src": "Hypebeast 11.22 · Crocs 공식", "links": [["원문", "https://hypebeast.com/2026/11/twilight-crocs-classic-clog-edward-and-bella-215785-90h-following-robert-pattinson-named-next-james-bond-release-info"], ["Crocs", "https://www.crocs.com/p/edward-and-bella-classic-clog/215785.html"]]},
+   {"side": "해외", "type": "런칭", "h": "루이스 해밀턴(Lewis Hamilton)의 +44, 라스베이거스 GP 앞두고 'Area +44' 컬렉션", "s": "유틸리티 콘셉트 캡슐로 브랜드 첫 니트웨어 포함. 윈 리조트 앙코르 에스플러네이드 팝업 운영.", "src": "Hypebeast 11.22", "links": [["원문", "https://hypebeast.com/2026/11/lewis-hamilton-plus-44-las-vegas-grand-prix-area-44-collection-release-info"]]}
+  ]},
+  {"en": "Art", "ko": "아트", "items": [
+   {"side": "해외", "type": "재개관", "h": "리스본 국립고대미술관(Museu Nacional de Arte Antiga), 1년여 공사 끝 재개관", "s": "경제회복계획(PRR) 예산 850만 유로로 북측 파사드·지붕·알베르타스 예배당 복원, 소장품 수천 점 2D·3D 디지털화. 11월 21일 재개관, 개막 주말 무료입장과 12월 1일까지 특별 프로그램.", "src": "Correio da Manhã 11.21 · Observador 10.08", "links": [["원문", "https://www.cmjornal.pt/cultura/detalhe/museu-nacional-de-arte-antiga-reabre-este-sabado-com-novo-percurso-e-programacao-especial"], ["Observador", "https://observador.pt/2026/10/08/museu-nacional-de-arte-antiga-reabre-a-21-de-novembro-apos-obras-de-85-milhoes-financiadas-pelo-prr/"]]},
+   {"side": "국내", "type": "부고", "h": "'히말라야의 화가' 강찬모 화백 별세, 향년 77세", "s": "2004년 히말라야 설산을 본 뒤 한지에 전통 채색으로 산맥과 명상을 그린 연작으로 런던·리옹·파리 등에서 전시. 11월 21일 별세, 발인 11월 24일.", "src": "서울신문 11.22 · 재경일보 11.22", "links": [["원문", "https://www.seoul.co.kr/news/peoples/death/2026/11/22/20261122500048"], ["재경일보", "https://news.jkn.co.kr/post/1114152"]]},
+   {"side": "국내", "type": "경매 예고", "h": "서울옥션 이브닝 세일 오늘 개최, 김환기 미공개 전면점화 28억 원부터", "s": "11월 23일 오후 5시 강남센터에서 34점, 약 190억 원 규모. 김환기 '30-XI-71 #212'(국내 첫 공개), 데미안 허스트·이우환·쿠사마 야요이·백자대호 출품.", "src": "아시아경제 11.02 · 국민일보 11.11", "links": [["원문", "https://view.asiae.co.kr/article/2026110217174197150"], ["국민일보", "https://www.kmib.co.kr/article/20261110502054"]]},
+   {"side": "국내", "type": "기록", "h": "국립중앙박물관, 개관 이래 연간 최다 관람객 경신…650만 명 돌파", "s": "11월 18일 기준 누적 650만8,259명으로 2025년 연간 기록을 43일 앞당겨 경신. 외국인 관람객 40만5,768명으로 약 91% 증가.", "src": "서울신문 11.20", "links": [["원문", "https://www.seoul.co.kr/news/life/exhibition/2026/11/20/20261120500085"]], "week": true},
+   {"side": "해외", "type": "전시 예고", "h": "MoMA PS1, 라틴아메리카 패션·미술전 '말베스티르(Malvestir)' 발표", "s": "코니 버틀러(Connie Butler) 관장 등 공동 기획, 2027년 4월 개막 예정. 윌리 차바리아·루아(LUAR)의 라울 로페스 등 미주 작가·디자이너 20명 참여.", "src": "Hyperallergic 11.20", "links": [["원문", "https://hyperallergic.com/a-sprawling-exhibition-of-latin-american-art-and-fashion-is-coming-to-nyc/"]], "week": true}
+  ]},
+  {"en": "Gastronomy", "ko": "미식", "items": [
+   {"side": "해외", "type": "가이드", "h": "미쉐린 가이드 프랑스(Guide MICHELIN France) 2027 시상식, 사상 첫 리옹 개최 유력", "s": "2027년 3월 15일 리옹 개최가 유력하다는 보도, 미쉐린 공식 확인 전. 폴 보퀴즈의 옛 레스토랑 '오베르주 뒤 퐁 드 콜롱주'의 3스타 복귀 여부에 관심.", "src": "Lyon Mag 11.17 · Vivre Villes 11.21", "links": [["원문", "https://www.vivre-villes.fr/lyon/a-la-une-de-lyon/2026/11/21/la-prochaine-ceremonie-des-nouveaux-etoiles-du-guide-michelin-france-pourrait-bien-se-derouler-a-lyon/"], ["Lyon Mag", "https://www.lyonmag.com/article/154964/guide-michelin-2027-lyon-devrait-accueillir-la-ceremonie-des-etoiles-pour-la-premiere-fois-de-son-histoire"]]},
+   {"side": "해외", "type": "폐업", "h": "미쉐린 2스타 셰프 앨빈 렁(Alvin Leung), 홍콩 차찬텡 'MD 카페' 18개월 만에 폐업", "s": "2025년 5월 침사추이에 연 캐주얼 차찬텡의 조용한 폐업, 공식 사유 미발표. 보 이노베이션 등 파인다이닝은 정상 영업.", "src": "Dimsum Daily 11.21", "links": [["원문", "https://dimsumdaily.hk/two-michelin-starred-chef-alvin-leung-closes-md-cafe-in-tst-after-18-months"]]},
+   {"side": "국내", "type": "컬래버", "h": "정지선 셰프 1인 훠궈 '텐텐라이' 첫날 1,000명…스타 셰프 협업 확산", "s": "FG와 손잡은 정지선 셰프의 1인 훠궈 브랜드가 롯데백화점 부산본점 개점 첫날 1,000명 이상 방문. 셰이크쉑×손종원, 빕스×박은영 등 외식업계 셰프 협업 확산.", "src": "파이낸셜뉴스 11.22", "links": [["원문", "https://www.fnnews.com/news/202611221820049931"], ["관련", "https://www.fnnews.com/news/202611211306571602"]]},
+   {"side": "국내", "type": "콘텐츠", "h": "이연복·조경래 셰프, 넷플릭스 '흑백요리사3' 출연 보도", "s": "현재 운영 중인 식당 소속 셰프 4인 1조 팀전 형식, 2027년 공개 예정이라는 단독 보도. 넷플릭스는 확인 불가 입장.", "src": "헤럴드경제 11.17", "links": [["원문", "https://biz.heraldcorp.com/article/10940155"], ["헤럴드뮤즈", "https://www.heraldmuse.com/article/10940035"]], "week": true},
+   {"side": "해외", "type": "셰프 이동", "h": "호주 '스킬로갈리 배럴 하우스' 댄 모스(Dan Moss), 미쉐린 1스타 직후 사임", "s": "호주 10곳뿐인 1스타 중 하나를 받은 지 몇 주 만의 사임, 마지막 근무일 12월 20일. 2027년 초 라이언 클리프트 주도의 신규 파인다이닝 오픈 예정.", "src": "InDaily 11.20", "links": [["원문", "https://www.indailysa.com.au/news/just-in/2026/11/20/resignation-served-michelin-star-chef-exits-top-sa-kitchen"]], "week": true}
+  ]}
+ ],
+ "memo": [
+  "지난 1주일 화제 소식으로 채운 항목에 ◆ 표시를 했어요. 오늘은 주말 사이 새 소식이 적어 보충 비중이 높아요.",
+  "서울옥션 이브닝 세일은 오늘 오후 5시에 열려요. 결과는 내일(11.24) THE READ에서 읽어요.",
+  "샤넬 성수 팝업, 디올 현진, 루이 비통×키스 해링 향수, 젠틀몬스터 아이웨어는 지난 호에 실어 이번엔 뺐어요.",
+  "라 리스트 2027(현지 11.23 발표), 케이옥션(11.25), 미쉐린 후난(11.25), 브뤼셀 칸알-퐁피두 개관(11.28), 미쉐린 스페인(12.1), 아트바젤 마이애미비치(12.4~6), 젠틀몬스터 출시(12.10), 구겐하임 아부다비 개관(12.11)을 기다리고 있어요."
+ ]
+}
